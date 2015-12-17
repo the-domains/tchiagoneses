@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#88A8B0'
+    - '#103848'
+    - '#98A058'
+    - '#D0B038'
+    - '#D0B870'
+  brandStrength: 0.203685
+  lightness: 0.312625
+  rhythmicContrast: 0.02699
+  saturation: 0.851796
+cta: {}
+layout_spectrum: 0.118658
+name: tchiagoneses-1
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.577943
